@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Patches\\InventoryControllerPatch.cs",
               "ToolTip": "D:\\SP-Tarkov Dev\\Development\\ScavsWithArmbands\\Patches\\InventoryControllerPatch.cs",
               "RelativeToolTip": "Patches\\InventoryControllerPatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T01:18:11.007Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "ScavsWithArmbands.csproj",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-12T01:13:15.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T01:13:15.767Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "Plugin.cs",
               "ToolTip": "D:\\SP-Tarkov Dev\\Development\\ScavsWithArmbands\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T01:10:12.546Z",
               "EditorCaption": ""
